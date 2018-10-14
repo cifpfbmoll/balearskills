@@ -1,16 +1,27 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>MallorCuina</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+<html lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>MallorCuina</title>
+
+        <!-- Bootstrap CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/main.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.3/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
 </head>
 <body>
-    
     <div class="container bg">
+        <div class="page-header">
+            <img src="https://via.placeholder.com/1850x250" class="img-responsive img-rounded">
+        </div>
         
         <!-- Berra navegació -->
         <nav class="navbar navbar-inverse">
@@ -24,7 +35,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="#">
-                        <img src="https://via.placeholder.com/250x50" style="height: 100%;">
+                        MallorCuina
                     </a>
                 </div>
                 
@@ -34,7 +45,7 @@
                         <li><a href="#">Link</a></li>
                         <li><a href="#">Link</a></li>
                     </ul>
-                    <form class="navbar-form navbar-left">
+                    <form class="navbar-form">
                         <div class="form-group">
                             <input type="text" class="form-control" placeholder="Search">
                         </div>
@@ -44,8 +55,7 @@
             </div><!-- /.container-fluid -->
         </nav>
         <!-- Fi Berra navegació -->
-        
-        
+    
         
         <div class="well">
             <div class="row">
@@ -98,12 +108,9 @@
         </table>
     </div>
     
-    <button type="button" class="btn btn-info glyphicon glyphicon-book">button</button>
-    
-    <button type="button" class="btn btn-default glyphicon glyphicon-apple">button</button>
-    
+    <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Bootstrap JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
