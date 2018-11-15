@@ -42,8 +42,8 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar">
                     <ul class="nav navbar-nav">
-                        <li><a href="page1.php">Link1</a></li>
-                        <li><a href="page2.php">Link2</a></li>
+                        <li><a href="page1.php">Page 1</a></li>
+                        <li><a href="page2.php">Page 2</a></li>
                     </ul>
                     <form class="navbar-form">
                         <div class="form-group">
@@ -56,7 +56,7 @@
         </nav>
         <!-- Fi Berra navegació -->
     
-        <?php include $template ?>
+        <?php include $content ?>
         
     </div>
     

@@ -4,6 +4,6 @@
     // Feim SELECT, etc... i ho carregam a un array, per exemple
 
     $pagetitle = "Index";
-    $template = "templates/index.tpl.php";
+    $content = "content/index.cnt.php";
     include "layout.php";
 ?>

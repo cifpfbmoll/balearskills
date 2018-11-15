@@ -1,3 +1,6 @@
+<?php
+    require_once "./db/db.php";
+?>
 <div class="well">
     <div class="row">
         <div class="col-md-8">

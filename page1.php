@@ -1,5 +1,5 @@
 <?php
     $pagetitle = "Page 1";
-    $template = "templates/page1.tpl.php";
+    $content = "content/page1.cnt.php";
     include "layout.php";
 ?>
