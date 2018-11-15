@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preus>
+	<preu>
+		<cat>menys de 10 €</cat>
+		<esp>menos de 10 €</esp>
+	</preu>
+	<preu>
+		<cat>entre 10 i 15 €</cat>
+		<esp>entre 10 y 15 €</esp>
+	</preu>
+	<preu>
+		<cat>entre 15 i 20 €</cat>
+		<esp>entre 15 y 20 €</esp>
+	</preu>
+	<preu>
+		<cat>entre 20 i 25 €</cat>
+		<esp>entre 20 y 25 €</esp>
+	</preu>
+	<preu>
+		<cat>entre 25 i 30 €</cat>
+		<esp>entre 25 y 30 €</esp>
+	</preu>
+	<preu>
+		<cat>entre 30 i 40 €</cat>
+		<esp>entre 30 y 40 €</esp>
+	</preu>
+	<preu>
+		<cat>entre 40 i 50 €</cat>
+		<esp>entre 40 y 50 €</esp>
+	</preu>
+	<preu>
+		<cat>més de 50 €</cat>
+		<esp>más de 50 €</esp>
+	</preu>
+</preus>

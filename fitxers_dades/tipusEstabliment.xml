@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tipusEstabliment>
+	<tipus>
+		<cat>a domicili</cat>
+		<esp>a domicilio</esp>
+	</tipus>
+	<tipus>
+		<cat>alta cuina</cat>
+		<esp>alta cocina</esp>
+	</tipus>
+	<tipus>
+		<cat>arrosseria</cat>
+		<esp>arroceria</esp>
+	</tipus>
+	<tipus>
+		<cat>asiàtic</cat>
+		<esp>asiático</esp>
+	</tipus>
+	<tipus>
+		<cat>cafeteria</cat>
+		<esp>cafeteria</esp>
+	</tipus>
+	<tipus>
+		<cat>carns</cat>
+		<esp>carnes</esp>
+	</tipus>
+	<tipus>
+		<cat>casolà</cat>
+		<esp>casero</esp>
+	</tipus>
+	<tipus>
+		<cat>sopars d'empresa</cat>
+		<esp>cenas de empresa</esp>
+	</tipus>
+	<tipus>
+		<cat>chillout</cat>
+		<esp>chillout</esp>
+	</tipus>
+	<tipus>
+		<cat>amb nins</cat>
+		<esp>con niños</esp>
+	</tipus>
+	<tipus>
+		<cat>amb terrassa</cat>
+		<esp>con terraza</esp>
+	</tipus>
+	<tipus>
+		<cat>copes</cat>
+		<esp>copas</esp>
+	</tipus>
+	<tipus>
+		<cat>costa</cat>
+		<esp>costa</esp>
+	</tipus>
+	<tipus>
+		<cat>creperia</cat>
+		<esp>crepería</esp>
+	</tipus>
+	<tipus>
+		<cat>d'autor</cat>
+		<esp>de autor</esp>
+	</tipus>
+	<tipus>
+		<cat>econòmic</cat>
+		<esp>económico</esp>
+	</tipus>
+	<tipus>
+		<cat>espectacle</cat>
+		<esp>espectáculo</esp>
+	</tipus>
+	<tipus>
+		<cat>exòtic</cat>
+		<esp>exótico</esp>
+	</tipus>
+	<tipus>
+		<cat>fusió</cat>
+		<esp>fusión</esp>
+	</tipus>
+	<tipus>
+		<cat>gallec</cat>
+		<esp>gallego</esp>
+	</tipus>
+	<tipus>
+		<cat>grups</cat>
+		<esp>grupos</esp>
+	</tipus>
+	<tipus>
+		<cat>hamburgueseria</cat>
+		<esp>hamburguesería</esp>
+	</tipus>
+	<tipus>
+		<cat>indú</cat>
+		<esp>indú</esp>
+	</tipus>
+	<tipus>
+		<cat>internacional</cat>
+		<esp>internacional</esp>
+	</tipus>
+	<tipus>
+		<cat>italià</cat>
+		<esp>italiano</esp>
+	</tipus>
+	<tipus>
+		<cat>japonès</cat>
+		<esp>japonés</esp>
+	</tipus>
+	<tipus>
+		<cat>mallorquí</cat>
+		<esp>mallorquín</esp>
+	</tipus>
+	<tipus>
+		<cat>mariscs</cat>
+		<esp>mariscos</esp>
+	</tipus>
+	<tipus>
+		<cat>mediterrani</cat>
+		<esp>mediterráneo</esp>
+	</tipus>
+	<tipus>
+		<cat>mercat</cat>
+		<esp>mercado</esp>
+	</tipus>
+	<tipus>
+		<cat>mexicà</cat>
+		<esp>mexicano</esp>
+	</tipus>
+	<tipus>
+		<cat>pa amb oli</cat>
+		<esp>pa amb oli</esp>
+	</tipus>
+	<tipus>
+		<cat>pasta</cat>
+		<esp>pasta</esp>
+	</tipus>
+	<tipus>
+		<cat>pizza</cat>
+		<esp>pizza</esp>
+	</tipus>
+	<tipus>
+		<cat>romàntic</cat>
+		<esp>romántico</esp>
+	</tipus>
+	<tipus>
+		<cat>tailandès</cat>
+		<esp>tailandés</esp>
+	</tipus>
+	<tipus>
+		<cat>tapes</cat>
+		<esp>tapas</esp>
+	</tipus>
+	<tipus>
+		<cat>tenda gourmet</cat>
+		<esp>tienda gourmet</esp>
+	</tipus>
+	<tipus>
+		<cat>tradicional</cat>
+		<esp>tradicional</esp>
+	</tipus>
+	<tipus>
+		<cat>vasc</cat>
+		<esp>vasco</esp>
+	</tipus>
+	<tipus>
+		<cat>vegeterià</cat>
+		<esp>vegetariano</esp>
+	</tipus>
+	<tipus>
+		<cat>vietnamita</cat>
+		<esp>vietnamita</esp>
+	</tipus>
+	<tipus>
+		<cat>vins</cat>
+		<esp>vinos</esp>
+	</tipus>
+</tipusEstabliment> 
