@@ -56,7 +56,7 @@
         </nav>
         <!-- Fi Berra navegació -->
     
-        <?php include $content ?>
+        <?php require_once $content ?>
         
     </div>
     
