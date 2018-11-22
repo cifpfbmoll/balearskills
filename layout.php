@@ -57,7 +57,12 @@
         </nav>
         <!-- Fi Berra navegació -->
     
-        <?php require_once $content ?>
+        
+        <?php 
+            if (isset($content)) {
+                include_once $content;
+            }
+        ?>
         
     </div>
     

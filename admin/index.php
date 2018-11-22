@@ -2,7 +2,7 @@
     session_start();
     if (!isset($_SESSION["username"])) {
         header("Location:login.php"); 
-        //die(); 
+        die(); 
     }
 ?>
 <!DOCTYPE html>
@@ -31,7 +31,7 @@
                     <h1>Admin place</h1>
                     <p>Contents ...</p>
                     <p>
-                        <a class="btn btn-primary btn-lg">Learn more</a>
+                        <a class="btn btn-primary btn-lg" href="logout.php">Logout</a>
                     </p>
                 </div>
             </div>
