@@ -44,6 +44,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="page1.php">Page 1</a></li>
                         <li><a href="page2.php">Page 2</a></li>
+                        <li><a href="admin/index.php">Admin</a></li>
                     </ul>
                     <form class="navbar-form">
                         <div class="form-group">
